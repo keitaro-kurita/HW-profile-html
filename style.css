@@ -1,0 +1,45 @@
+.wrapper {
+    margin:0 auto 0 auto;
+    max-width: 960px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+p {
+    line-height: 1.6;
+}
+
+header {
+    background-color: grey;
+}
+
+.name {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1 {
+    border-left:thick solid grey;
+    padding-left:10px;
+}
+
+table {
+    width:100%;
+    display: block
+}
+
+th {
+    font-weight: normal;
+}
+
+
+
+footer {
+    background-color: grey;
+    text-align: center;
+   width: 100%;
+   
+}
